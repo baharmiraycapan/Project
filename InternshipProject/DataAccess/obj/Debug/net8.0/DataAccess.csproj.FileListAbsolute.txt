@@ -1,0 +1,6 @@
+/Users/miraycapan/InternshipProject/DataAccess/obj/Debug/net8.0/DataAccess.csproj.AssemblyReference.cache
+/Users/miraycapan/InternshipProject/DataAccess/obj/Debug/net8.0/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miraycapan/InternshipProject/DataAccess/obj/Debug/net8.0/DataAccess.AssemblyInfoInputs.cache
+/Users/miraycapan/InternshipProject/DataAccess/obj/Debug/net8.0/DataAccess.AssemblyInfo.cs
+/Users/miraycapan/InternshipProject/DataAccess/obj/Debug/net8.0/DataAccess.csproj.CoreCompileInputs.cache
+/Users/miraycapan/InternshipProject/DataAccess/obj/Debug/net8.0/DataAccess.sourcelink.json
